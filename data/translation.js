@@ -15,7 +15,7 @@ export default {
     instructionThree: "Can't we take a day off from school/college?",
     instructionFour: "Can't we leave the house for a day?",
     instructionFive: "Can't we just get together for one day?",
-    upvote: "Click if you are comming",
+    upvote: "Click if you are READY",
     coming: "I'm coming",
     resourceHeading:
       "It is our responsibility, and everyone must participate on May 5th at their location.",

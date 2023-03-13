@@ -2,7 +2,7 @@ import messages from './data/translation.js';
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'movie-app',
+    title: 'Meta-SahajaYoga',
     htmlAttrs: {
       lang: 'en'
     },
@@ -34,7 +34,7 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    'bootstrap-vue/nuxt','@nuxtjs/i18n'
+    'bootstrap-vue/nuxt','@nuxtjs/i18n','@nuxtjs/axios'
   ],
 
   i18n: {
